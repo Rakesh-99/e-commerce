@@ -58,7 +58,7 @@ This is a feature-rich eCommerce platform built using the MERN stack (MongoDB, E
      ### About Profile
     ![About profile](https://github.com/Rakesh-99/e-commerce/blob/master/client/src/assets/images%20for%20git/aboutProfile.png)
     ### Products listing
-    ![Products listing](https://github.com/Rakesh-99/e-commerce/blob/master/client/src/assets/images%20for%20git/aboutProfile.png)
+    ![Products listing](https://github.com/Rakesh-99/e-commerce/blob/master/client/src/assets/images%20for%20git/productListing.png)
     ### Product Details
     ![Product details](https://github.com/Rakesh-99/e-commerce/blob/master/client/src/assets/images%20for%20git/productDetailsImage.png)
 
