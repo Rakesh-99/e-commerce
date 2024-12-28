@@ -1,0 +1,158 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "brand": "Samsung",
+            "model": "Samsung galaxy s24 ultra",
+            "price": 150000,
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzkqins-539573273?$684_547_PNG$",
+            "ratings": 4.9,
+            "color": "black",
+            "category": "mobile",
+            "description": "Behold the Samsung Galaxy S24 Ultra smartphone, an exceptional amalgamation of incredible technology and superior sophistication. Whether you're typing up a storm or jotting something down, Note Assist makes a long story short. New AI-powered editing options let you get the photo you want, like relocating objects and intelligently filling in the space they left behind. With a durable shield of titanium built right into the frame and better scratch resistance with Corning Gorilla Armor, your IP68 water and dust-resistant Galaxy S24 Ultra is ready for adventure. Write, tap, and navigate with the precision your fingers wish they had on the new, flat display.",
+            "offers": [
+                "5% Unlimited Cashback on ShopEase Axis Bank Credit CardT&C",
+                "₹1000 Off On All Bank Credit Card Non EMI TransactionsT&C",
+                "Bank Offer₹1000 off on ShopEase UPIT&C"
+            ],
+            "special offer": "Get extra ₹1401 off (price inclusive of cashback/coupon)T&C",
+            "storage option": [
+                "128 GB",
+                "512 GB",
+                "1 TB"
+            ]
+        },
+        {
+            "id": 2,
+            "brand": "Apple",
+            "model": "Apple macbook pro",
+            "price": 200000,
+            "storage option": [
+                "512 GB",
+                "1 TB",
+                "2 TB"
+            ],
+            "image": "https://inventstore.in/staging/wp-content/uploads/2023/05/macbook-pro-13-silver.png",
+            "ratings": 4.7,
+            "color": "silver",
+            "offers": [
+                "7% Unlimited Cashback on ShopEase Axis Bank Credit CardT&C",
+                "₹999 Off On All Bank Credit Card Non EMI TransactionsT&C",
+                "Bank Offer ₹1200 off on ShopEase UPIT&C"
+            ],
+            "category": "laptop",
+            "description": "16 Inch Liquid Retina XDR display, native resolution at 254 pixels per inch, XDR (Extreme Dynamic Range),10,00,000:1 contrast ratio, XDR brightness: 1,000 nits sustained full-screen; 1,600 nits peak3 (HDR content only), SDR brightness: up to 1,000 nits (outdoor)",
+            "special offer": "Get extra ₹4901 off (price inclusive of cashback/coupon)T&C"
+        },
+        {
+            "id": 3,
+            "brand": "Samsung",
+            "model": "Galaxy watch ultra",
+            "price": 200000,
+            "image": "https://m.media-amazon.com/images/I/81WgHy3pZ3L.jpg",
+            "ratings": 4.5,
+            "color": "orange",
+            "category": "watch",
+            "description": "Watch ULTRA has premium design specialized for outdoor, and provides ultra capability including new platform and high durability.",
+            "offers": [
+                "17% Unlimited Cashback on ShopEase Axis Bank Credit CardT&C",
+                "₹599 Off On All Bank Credit Card Non EMI TransactionsT&C",
+                "Bank Offer ₹900 off on ShopEase UPIT&C"
+            ],
+            "storage option": [
+                "100 MB",
+                "200 MB",
+                "300 MB"
+            ],
+            "special offer": "Get extra ₹901 off (price inclusive of cashback/coupon)T&C"
+        },
+        {
+            "id": 4,
+            "brand": "Nike",
+            "model": "Nike soft cotton t-shirt",
+            "price": 2500,
+            "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bf4d456f-916a-4e74-ae3f-2467196e7fbe/AS+KD+M+NK+TEE+SU24.png",
+            "ratings": 4.1,
+            "color": "black",
+            "category": "cloths",
+            "description": "Nike T-shirts - Choose from the wide range of Nike Tshirts for Women, Men & Kids. Shop for high neck, scoop neck, v-neck, round neck and more patterns of ...",
+            "special offer": "Get extra ₹490 off (price inclusive of cashback/coupon)T&C",
+            "offers": [
+                "17% Unlimited Cashback on ShopEase Axis Bank Credit CardT&C",
+                "₹599 Off On All Bank Credit Card Non EMI TransactionsT&C",
+                "Bank Offer ₹900 off on ShopEase UPIT&C"
+            ],
+            "size": [
+                "S",
+                "M",
+                "XL",
+                "XXl"
+            ]
+        },
+        {
+            "id": 5,
+            "brand": "Nike",
+            "model": "Nike winter wear sweat shirt",
+            "price": 1700,
+            "ratings": 4.0,
+            "size": [
+                "S",
+                "M",
+                "XL",
+                "XXl"
+            ],
+            "color": "gray",
+            "category": "cloths",
+            "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e9643798-8175-4784-a43c-5b43761bbeb9/AS+W+NSW+NK+WR+WVN+JKT+V2K.png",
+            "description": "New Styles On Sale: Up To 40% Off Shop All Our New Markdowns Men's Winter Wear Results Filter Nike Everyday",
+            "special offer": "Get extra ₹41 off (price inclusive of cashback/coupon)T&C",
+            "offers": [
+                "17% Unlimited Cashback on ShopEase Axis Bank Credit CardT&C",
+                "₹599 Off On All Bank Credit Card Non EMI TransactionsT&C",
+                "Bank Offer ₹900 off on ShopEase UPIT&C"
+            ]
+        },
+        {
+            "id": 6,
+            "price": 3999,
+            "brand": "Jbl",
+            "category": "bluetooth-speaker",
+            "ratings": 4.0,
+            "color": "blue",
+            "image": "https://www.harmanaudio.in/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw979f5fbe/JBL_GO_4_3_4_LEFT_BLUE_48173_x1.png?sw=535&sh=535",
+            "description": "Enjoy your music wirelessly! JBL offers a wide selection of waterproof portable Bluetooth speakers with rechargeable battery options. Browse our products!",
+            "special offer": "Get extra ₹610 off (price inclusive of cashback/coupon)T&C",
+            "offers": [
+                "17% Unlimited Cashback on ShopEase Axis Bank Credit CardT&C",
+                "₹599 Off On All Bank Credit Card Non EMI TransactionsT&C",
+                "Bank Offer ₹900 off on ShopEase UPIT&C"
+            ],
+            "size": [
+                "S",
+                "M"
+            ]
+        },
+        {
+            "id": 7,
+            "price": 75000,
+            "brand": "Sony",
+            "category": "television",
+            "ratings": 4.8,
+            "color": "black",
+            "image": "https://shopatsc.com/cdn/shop/files/03-S30-tv-feature_e0a73fe9-dfe5-47b2-9c8b-44c2758ac929.jpg?v=1720768165",
+            "model": "Sony Bravia 3",
+            "description": "BRAVIA 3 | XR Processor | Mini LED | 4K Ultra HD | High Dynamic Range (HDR) | Smart TV (Google TV). BRAVIA 9. Our brightest 4K ever. 189 cm (75)215 cm (85).",
+            "special offer": "Get extra ₹190 off (price inclusive of cashback/coupon)T&C",
+            "offers": [
+                "17% Unlimited Cashback on ShopEase Axis Bank Credit CardT&C",
+                "₹599 Off On All Bank Credit Card Non EMI TransactionsT&C",
+                "Bank Offer ₹900 off on ShopEase UPIT&C"
+            ],
+            "size": [
+                "56 INCH",
+                "82 INCH",
+                "90 INCH"
+            ]
+        }
+    ]
+}
